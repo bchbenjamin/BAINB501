@@ -1,0 +1,9 @@
+BFS
+Time: 0.2870336920000227 seconds 
+Current memory: 24717.939453125 KB
+Peak memory: 26911.431640625 KB
+
+DFS
+Time: 1.1234016550001797 seconds 
+Current memory: 58495.583984375 KB
+Peak memory: 66914.029296875 KB
