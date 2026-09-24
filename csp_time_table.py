@@ -172,3 +172,23 @@ if timetable:
     print_timetable(timetable)
 else:
     print("No valid timetable found.")
+
+# OUTPUT:
+    
+# ENGINEERING CLASS TIMETABLE
+# ============================================================
+# Day         Period 1   Period 2   Period 3   Period 4
+# ------------------------------------------------------------
+# Monday      AI         DBMS       CN         OS
+# Tuesday     DBMS       CN         OS         SE
+# Wednesday   CN         OS         SE         AI
+# Thursday    OS         SE         AI         DBMS
+# Friday      SE         AI         DBMS       CN
+# ============================================================
+
+# Subject frequencies:
+# AI: 4
+# DBMS: 4
+# CN: 4
+# OS: 4
+# SE: 4
